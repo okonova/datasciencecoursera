@@ -1,0 +1,13 @@
+---
+title: "Helloworld"
+author: "Inese"
+date: '2020 08 5 '
+output:
+  word_document: default
+  html_document: default
+---
+
+
+
+## This is a markdown file
+
